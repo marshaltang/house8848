@@ -1,6 +1,4 @@
 大连
 =========
 
-   收发整租信息，请登录高德小程序 `整租 <https://wia.amap.com/#/manage/maps/>`_ 
-
-   收发合租信息，请登录高德小程序 `合租 <https://wia.amap.com/#/manage/maps>`_ 
+   发布信息，请登录 `高德小程序 <https://wia.amap.com/#/map?orgId=10016360290126318522&workMapId=1636029144756118>`_

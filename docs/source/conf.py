@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'House8848'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2025, Marshal'
+author = 'Marshal'
 
 release = '0.1'
 version = '0.1.0'

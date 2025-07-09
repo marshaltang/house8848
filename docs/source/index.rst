@@ -22,7 +22,11 @@ Contents
    sh
    tj
    cq
+   hlj
+   jl
+   ln
    gd
+   gx
 
    usage
    api

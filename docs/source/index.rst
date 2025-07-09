@@ -18,5 +18,11 @@ Contents
 
 .. toctree::
 
+   bj
+   sh
+   tj
+   cq
+   gd
+
    usage
    api

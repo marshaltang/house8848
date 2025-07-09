@@ -1,7 +1,9 @@
-广东省
+广东
 =========
 
 .. autosummary::
    :toctree: generated
 
-   lumache
+   gd/guangzhou
+   
+   gd/shenzhen

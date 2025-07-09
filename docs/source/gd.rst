@@ -1,8 +1,9 @@
 广东
 =========
 
-.. autosummary::
-   :toctree: generated
+.. toctree::
+   :maxdepth: 2
+   :caption: city list:
 
    gd/guangzhou
    

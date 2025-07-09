@@ -13,7 +13,10 @@ Thanks to GAODE  <https://world.openfoodfacts.org/>`_
 Contents
 --------
 
+
 .. toctree::
+   :maxdepth: 2
+   :caption: China:
 
    bj
    sh
@@ -25,5 +28,4 @@ Contents
    gd
    gx
 
-   usage
-   api
+

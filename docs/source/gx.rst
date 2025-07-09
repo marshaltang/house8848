@@ -5,4 +5,4 @@
    :maxdepth: 2
    :caption: city list:
 
-   lumache
+   gx/nanning

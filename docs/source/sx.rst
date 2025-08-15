@@ -5,4 +5,4 @@
    :maxdepth: 2
    :caption: city list:
 
-   sx/太原
+   sx/taiyuan

@@ -16,11 +16,7 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
-    'sphinx.ext.githubpages',
     'sphinx.ext.intersphinx',
-	'myst_parser', 
-	'sphinxcontrib.mermaid', 
-    'sphinx-jsonschema'
 ]
 
 templates_path = ['_templates']
@@ -29,7 +25,7 @@ exclude_patterns = ['build', 'Thumbs.db', '.DS_Store']
 language = 'zh_CN'
 
 html_theme = 'sphinx_rtd_theme'
-html_logo = "../static/ic_launcher_sphinx.png"
+
 #html_logo = "_static/ic_launcher_blues.png"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

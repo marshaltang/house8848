@@ -1,9 +1,7 @@
 Welcome to DIY House Bulletin Board!
 ==============================================
 
-**House8848** (/lu'make/) is a free diy house Bulletin Board!
-Thanks to GAODE  <https://world.openfoodfacts.org/>`_
-供需双方自由发布求租和出租信息，类似社区的公告牌！
+**House8848** is a free diy house Bulletin Board! Thanks to 高德 so that 供需双方可在 `高德地图小程序`_ 自由发布求租和出租信息，类似社区的公告牌！
 
 .. image:: images/sample.png
     :width: 707px
@@ -42,4 +40,8 @@ Contents
    nmg
    gx
 
+
+
+
+.. _高德地图小程序: https://wia.amap.com/#/manage/maps
 

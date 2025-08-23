@@ -1,9 +1,4 @@
-DIY House公告牌
+DIY House 公告牌
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Pls Read here: https://house8848.readthedocs.io/en/latest/
